@@ -10,10 +10,7 @@ import productRoutes from "./routes/productRoutes";
 import commentRoutes from "./routes/commentRoutes";
 
 const app = express();
-<<<<<<< HEAD
 
-=======
->>>>>>> 4c584083329d4d6d0013d991dc5b61556c416fe4
 app.use(
   cors({
     origin: "https://producthubs.onrender.com",
