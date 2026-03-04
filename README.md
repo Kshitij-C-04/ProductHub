@@ -1,4 +1,4 @@
-# 🚀 ProductHub
+# 🚀 ProductHub (PERN stack)
 
 ProductHub is a **full-stack product management web application** that allows users to create, manage, and track products through a clean and simple interface.
 
